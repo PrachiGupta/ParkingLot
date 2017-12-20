@@ -1,0 +1,16 @@
+create_parking_lot 6
+park TN-10 White
+park TN-13 White
+leave 4
+park TN-16 Red
+park TN-18 Black
+park TN-89 Red
+park TN-90 Blue
+leave 4
+status
+park TN-80 White
+park TN-84 White
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number TN-89
+slot_number_for_registration_number TN-94
